@@ -1,3 +1,5 @@
+#Changes pushed on master branch
+
 # DummyRequestCounter
 
 A dummy FastAPI application that counts  the number of visits using Redis which is running in Docker Desktop containers.
